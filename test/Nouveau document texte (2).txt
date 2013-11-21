@@ -1,0 +1,5 @@
+CREATE MAPROC
+AS 
+BEGIN
+	EXEC "Hello world"
+END

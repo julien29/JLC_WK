@@ -1,0 +1,6 @@
+[paths]
+default = \\srvdev\MercurialUser\JLC\ProjetJLechevallier
+
+
+[hooks]
+commit.autopush = hg push
